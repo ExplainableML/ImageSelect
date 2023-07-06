@@ -3,7 +3,7 @@
 This is the  PyTorch code our work [If at First You Don't Succeed, Try, Try Again: Faithful Diffusion-based Text-to-Image Generation by Selection](https://arxiv.org/abs/2305.13308) .
 
 <p align="center">
-  <img src="utils/overview.pdf" />
+  <img src="utils/overview.png" />
 </p>
 
 ## Setup
